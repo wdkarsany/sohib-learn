@@ -1,0 +1,8 @@
+body {
+    font-size: 25px;
+}
+
+html {
+    opacity: 0;
+    position: absolute;
+}
